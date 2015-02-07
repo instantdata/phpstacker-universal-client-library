@@ -25,4 +25,6 @@ REQUIREMENTS:
     * PHP 5+
     * curl - either PHP (preferred) or command line (fallback)
     * mcrypt library for PHP
-    
+    * jQuery, Bootstrap, & jQuery UI are recommended for your site layout and provided for the editor
+    * jsTree, CodeMirror, Spectrum ColorPicker, GlyphIcons, Font-Awesome and more are provided for the editor when necessary
+
